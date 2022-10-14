@@ -1,0 +1,21 @@
+{
+  "name": "twirangedark",
+  "displayName": "twirangeDark",
+  "description": "dark background, little bit of blue and orange, neglectable white&dark plus twilight orange.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.72.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "TwirangeDark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/TwirangeDark-color-theme.json"
+      }
+    ]
+  }
+}
