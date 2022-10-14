@@ -9,12 +9,24 @@
         "activityBar.foreground": "#15202b",
 // =========================================================================
 
+        "activityBar.border": "#000",
+// =========================================================================
+
+		"activityBarBadge.background": "#007acc",
+		"activityBarBadge.foreground": "#ffffff",
+		// vscode logo+activityBarBadgeBkg blue: "#007acc",
+// =========================================================================
+
         "sideBar.background": "#011627",
-        "sideBar.foreground": "#C0C0C0",
+        "sideBar.foreground": "#006cd8",
+// =========================================================================
+
+        "sideBarSectionHeader.background": "#006cd8",
+        "sideBarSectionHeader.foreground": "#C0C0C0",
 // =========================================================================
 
         "editor.background": "#23272e",
-		"editor.foreground": "#abb2bf",
+        "editor.foreground": "#abb2bf",
 // =========================================================================
 
 
@@ -32,15 +44,13 @@
 
 // =========================================================================
 
-    "statusBar.background": "#000000",
-    "statusBar.foreground": "#2a2a2a",
-    "statusBarItem.hoverBackground": "#8a8a8a",
+        "statusBar.background": "#000000",
+        "statusBar.foreground": "#2a2a2a",
+        "statusBarItem.hoverBackground": "#8a8a8a",
 
 // =========================================================================
 
         "activityBar.inactiveForeground": "#15202b99",
-        "activityBarBadge.background": "#b3ecca",
-        "activityBarBadge.foreground": "#15202b",
         "sash.hoverBorder": "#d38753",
         "titleBar.activeForeground": "#e7e7e7",
         "titleBar.inactiveForeground": "#e7e7e799"
