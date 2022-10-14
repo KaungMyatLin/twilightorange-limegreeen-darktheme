@@ -1,66 +1,65 @@
 {
-    "workbench.colorCustomizations": {
-        // "list.inactiveSelectionBackground": "#C0C0C0",
-        "titleBar.activeBackground": "#c16c32",
-        "titleBar.inactiveBackground": "#c16c3299",
+        "workbench.colorCustomizations": {
+                // "list.inactiveSelectionBackground": "#C0C0C0",
+                "titleBar.activeBackground": "#c16c32",
+                "titleBar.activeForeground": "#8a8a8a",
 // =========================================================================
 
-        "activityBar.background": "#d38753",
-        "activityBar.foreground": "#15202b",
+                "titleBar.inactiveBackground": "#c16c3299",
+                "titleBar.inactiveForeground": "#2a2a2a",
 // =========================================================================
 
-        "activityBar.border": "#000",
+                "activityBar.background": "#d38753",
+                "activityBar.foreground": "#15202b",
 // =========================================================================
 
-		"activityBarBadge.background": "#007acc",
-		"activityBarBadge.foreground": "#ffffff",
-		// vscode logo+activityBarBadgeBkg blue: "#007acc",
+                "activityBar.border": "#000",
+                "activityBar.inactiveForeground": "#abb2bf",
 // =========================================================================
 
-        "sideBar.background": "#011627",
-        "sideBar.foreground": "#006cd8",
+                "activityBarBadge.background": "#007acc",
+                "activityBarBadge.foreground": "#ffffff",
+                // vscode logo+activityBarBadgeBkg blue: "#007acc",
 // =========================================================================
 
-        "sideBarSectionHeader.background": "#006cd8",
-        "sideBarSectionHeader.foreground": "#C0C0C0",
+                "sideBarSectionHeader.background": "#007acc",
+                "sideBarSectionHeader.foreground": "#C0C0C0",
 // =========================================================================
 
-        "editor.background": "#23272e",
-        "editor.foreground": "#abb2bf",
+                "sideBar.background": "#011627",
+                "sideBar.foreground": "#007acc",
 // =========================================================================
 
-
-// =========================================================================
-
-
-// =========================================================================
-
-
+                "editor.background": "#23272e",
+                "editor.foreground": "#abb2bf",
 // =========================================================================
 
 
 // =========================================================================
 
+                "tab.activeBackground": "#0b2942",
+                "tab.activeForeground": "#74b39a",
+                "tab.activeBorder": "#000",
+// =========================================================================
+
 
 // =========================================================================
 
-        "statusBar.background": "#000000",
-        "statusBar.foreground": "#2a2a2a",
-        "statusBarItem.hoverBackground": "#8a8a8a",
 
 // =========================================================================
 
-        "activityBar.inactiveForeground": "#15202b99",
-        "sash.hoverBorder": "#d38753",
-        "titleBar.activeForeground": "#e7e7e7",
-        "titleBar.inactiveForeground": "#e7e7e799"
-		// "sideBarSectionHeader.background": "#102F97",
-		// "sideBarSectionHeader.foreground": "#abb2bf",
-        // "activityBar.border": "#FFFFFF",
-        // "statusBar.background": "#102F97",
-        // "scrollbarSlider.activeBackground": "#77D4CB",
-        // "scrollbarSlider.hoverBackground": "#8CE6DA",
-        // "badge.background": "#81CA91",
-        // "editorWarning.foreground": "#d19a66",
-    }
+
+// =========================================================================
+
+                "statusBar.background": "#000000",
+                "statusBar.foreground": "#2a2a2a",
+                "statusBarItem.hoverBackground": "#b5b5b5",
+// =========================================================================
+
+                "sash.hoverBorder": "#d38753",
+                // "scrollbarSlider.activeBackground": "#77D4CB",
+                // "scrollbarSlider.hoverBackground": "#8CE6DA",
+                // "badge.background": "#81CA91",
+                // "editorWarning.foreground": "#d19a66",
+        }
 }
