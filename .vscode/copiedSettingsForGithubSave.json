@@ -10,11 +10,11 @@
 // =========================================================================
 
                 "activityBar.background": "#d38753",
-                "activityBar.foreground": "#15202b",
+                "activityBar.foreground": "#8a8a8a",
 // =========================================================================
 
                 "activityBar.border": "#000",
-                "activityBar.inactiveForeground": "#abb2bf",
+                "activityBar.inactiveForeground": "#2a2a2a",
 // =========================================================================
 
                 "activityBarBadge.background": "#007acc",
@@ -66,8 +66,13 @@
                 "statusBarItem.hoverBackground": "#b5b5b5",
 // =========================================================================
 
+                "list.errorForeground": "#ff0101bf",
+                "editorError.foreground": "#ff0101bf",
+// =========================================================================
+
                 "sash.hoverBorder": "#d38753",
-                // "badge.background": "#81CA91",
+                "badge.background": "#007acc",
+                "badge.foreground": "#ffffff",
                 // "editorWarning.foreground": "#d19a66",
         }
 }
